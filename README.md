@@ -1,1 +1,1 @@
-#QR сканер для Fcashew_bot в Telegram mini-app
+Landing page for Telegram bot service.
